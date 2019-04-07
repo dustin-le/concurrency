@@ -1,4 +1,6 @@
-# Overview
+# Concurrency
+
+## Overview
 * Simulates a professor's office hours according to his/her specific instructions.
 
 ## Functionality
