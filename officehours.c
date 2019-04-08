@@ -1,3 +1,8 @@
+/*
+  Name: Dustin Le
+  ID: 1001130689
+*/
+
 #include <pthread.h>
 #include <semaphore.h>
 #include <unistd.h>
